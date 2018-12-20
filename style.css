@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    height: 50px;
+    color: white;
+    flex-wrap: wrap;
+    text-align: right;
+}
+#tete{
+    color:white;
+    whidth:100%;
+    text-align: right;
+}
+
+.carousel-item active {
+
+    height: 50px;
+}
