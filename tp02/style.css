@@ -10,7 +10,6 @@ img
 
 #barre{
     background-color: #1f1f1f ;
-    border-radius: 0px;
     margin-left: -300px;
     margin-right: -300px;
 
@@ -22,9 +21,4 @@ img
     height: 50px;
     width: 50px;
     margin-top: -5px;
-}
-#logoo{
-    height: 50px;
-    width: 50px;
-    margin-left: -1200px;
 }

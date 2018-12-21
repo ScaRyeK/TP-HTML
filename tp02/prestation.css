@@ -1,0 +1,14 @@
+#barre{
+    background-color: #1f1f1f ;
+    margin-left: -300px;
+    margin-right: -300px;
+
+}
+.nav-link{
+    color: white;
+}
+#logo{
+    height: 50px;
+    width: 50px;
+    margin-top: -5px;
+}
