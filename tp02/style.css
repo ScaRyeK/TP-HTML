@@ -2,8 +2,7 @@
     margin-top: 10%;
 }
 
-img
-{
+img {
     width: 100%;
     height: 100%;
 }
@@ -21,4 +20,8 @@ img
     height: 50px;
     width: 50px;
     margin-top: -5px;
+}
+
+style{
+    background-color: #4b4b4b;
 }

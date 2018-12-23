@@ -1,14 +1,67 @@
+body{
+    background-color: #4b4b4b;
+}
+
 #barre{
+
     background-color: #1f1f1f ;
     margin-left: -300px;
     margin-right: -300px;
-
 }
+
 .nav-link{
     color: white;
 }
+
 #logo{
     height: 50px;
     width: 50px;
     margin-top: -5px;
+}
+#lumiere{
+    margin-left: 250px;
+    margin-top: 200px;
+    width: 600px;
+
+
+}
+
+#etoile{
+    margin-left: 250px;
+    margin-top: 200px;
+    width: 600px;
+
+
+}
+
+#tranquille{
+    margin-left: 250px;
+    margin-top: 200px;
+    width: 600px;
+
+
+}
+#moissac{
+    margin-bottom: 200px;
+    margin-left: 250px;
+    margin-top: 200px;
+    width: 600px;
+
+
+}
+
+h5{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: -150px;
+
+}
+
+h6{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: -150px;
+
 }
