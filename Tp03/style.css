@@ -1,0 +1,19 @@
+
+
+ul {
+    background-color: black;
+    margin-top: 10px;
+
+}
+table {
+    background-color: white;
+    color: black;
+    border: black 1px solid;
+}
+#graph {
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 200px;
+    height: 700px;
+    width: 1200px;
+}
